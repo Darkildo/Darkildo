@@ -1,4 +1,4 @@
-[![Header](https://github.com/Darkildo/Darkildo/assets/logo.jpg)]
+[![Header](https://github.com/Darkildo/Darkildo/blob/main/assets/logo.jpg)]
 
 About me
 
