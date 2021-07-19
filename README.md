@@ -1,4 +1,9 @@
-### Hi there 👋
+[![Header](https://github.com/Darkildo/Darkildo/assets/logo.jpg)]
+
+About me
+
+Languages and Tools
+
 
 <!--
 **Darkildo/Darkildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
