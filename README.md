@@ -8,4 +8,4 @@
 ![UE4](https://img.shields.io/badge/-UE4-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 
 ## Contact Me
-![Discord(https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](My nickname in discord: D.ildo Requiem#3078)
+[!Discord(https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](My nickname in discord: D.ildo Requiem#3078)
