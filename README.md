@@ -12,3 +12,12 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://t.me/yghyyl)
 
 ## My Projects
+### Kitcher:
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_1.jpg" />
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_2.jpg" />
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_3.jpg" />
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_4.jpg" />
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_5.jpg" />
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_6.jpg" />
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_7.jpg" />
+<img src="https://github.com/Darkildo/Darkildo/blob/main/assets/kt/kitcher_8.jpg" />
