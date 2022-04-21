@@ -23,3 +23,8 @@
 
 ## My Projects
 ### Kitcher - https://github.com/Darkildo/kitcher
+### TestUnitTask - https://github.com/Darkildo/TestUnitTask - test task with infinite list generation 
+### Uchet - https://github.com/Darkildo/uchet - legacy test project
+### BonusSytemApp - https://github.com/Darkildo/BonusSytemApp - legacy test project
+## 𝗦𝘁𝗮𝘁𝘀 in GitHub
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=darkildo&show_icons=true&theme=dark)
