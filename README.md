@@ -6,6 +6,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=00648B)
+![Go](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=java&logoColor=00648B)
 ### Tools and Services:
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=for-the-badge&logo=material-UI)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
