@@ -67,16 +67,13 @@
 | **BonusSytemApp** | Legacy test project | https://github.com/Darkildo/BonusSytemApp |
 | **Logging Service** | Sync logging service example project (Go) | https://github.com/Darkildo/userLoggingProject |
 
-> Если хочешь — добавь 1–2 строки “что делает проект / стек / роль” (это сильно повышает ценность профиля).
-
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkildo&show_icons=true&theme=dark&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkildo&layout=compact&theme=dark&hide_border=true" height="160" />
 </p>
+
+увеличь верхнее изображения в несколько раз
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=darkildo&theme=dark&hide_border=true" height="170" />
