@@ -1,32 +1,83 @@
-![Header](https://github.com/Darkildo/Darkildo/blob/main/assets/logo.jpg)
-### Languages and Tools:
-![Dart](https://img.shields.io/badge/-Dart-090909?style=for-the-badge&logo=dart&logoColor=097CDB)
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=00648B)
-![Go](https://img.shields.io/badge/go-blue?style=for-the-badge&logo=java&logoColor=00648B)
-### Tools and Services:
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-0081CB?style=for-the-badge&logo=material-UI)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![UE4](https://img.shields.io/badge/-UE4-090909?style=for-the-badge&logo=mysql&logoColor=00648B)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
-![Arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino)
-## Contact Me
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)]()
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://t.me/VladimIRKish)
+<!-- Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" width="180" alt="Darkildo logo" />
+</p>
 
-## My Projects
-### Kitcher - https://github.com/Darkildo/kitcher
-### TestUnitTask - https://github.com/Darkildo/TestUnitTask - test task with infinite list generation 
-### Uchet - https://github.com/Darkildo/uchet - legacy test project
-### BonusSytemApp - https://github.com/Darkildo/BonusSytemApp - legacy test project
-### Logging Service - https://github.com/Darkildo/userLoggingProject - Sync logging service example project on go
-## 𝗦𝘁𝗮𝘁𝘀 in GitHub
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=darkildo&show_icons=true&theme=dark)
+<h1 align="center">Darkildo</h1>
+
+<p align="center">
+  <b>Flutter / Dart</b> • <b>Go</b> • <b>Python</b> • <b>C++</b> • <b>SQL</b>
+</p>
+
+<p align="center">
+  <a href="https://t.me/VladimIRKish">
+    <img src="https://img.shields.io/badge/Telegram-1E293B?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <!-- TODO: вставь свою ссылку на Discord (например: https://discord.gg/XXXX или профиль) -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-1E293B?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <!-- TODO: вставь свой email, если хочешь -->
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 🧩 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0B1F36?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+## 🛠 Tools & Services
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0B0F19?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-0B3B3B?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **Kitcher** | Project repo | https://github.com/Darkildo/kitcher |
+| **TestUnitTask** | Test task with infinite list generation | https://github.com/Darkildo/TestUnitTask |
+| **Uchet** | Legacy test project | https://github.com/Darkildo/uchet |
+| **BonusSytemApp** | Legacy test project | https://github.com/Darkildo/BonusSytemApp |
+| **Logging Service** | Sync logging service example project (Go) | https://github.com/Darkildo/userLoggingProject |
+
+> Если хочешь — добавь 1–2 строки “что делает проект / стек / роль” (это сильно повышает ценность профиля).
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darkildo&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkildo&layout=compact&theme=dark&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=darkildo&theme=dark&hide_border=true" height="170" />
+</p>
