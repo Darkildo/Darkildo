@@ -1,6 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" width="180" alt="Darkildo logo" />
+  <img 
+    src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" 
+    width="420"
+    alt="Darkildo logo"
+  />
 </p>
 
 <h1 align="center">Darkildo</h1>
@@ -69,12 +73,12 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkildo&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkildo&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img 
+    src="https://streak-stats.demolab.com?user=darkildo&theme=dark&hide_border=true" 
+    height="220"
+    alt="GitHub Streak"
+  />
 </p>
-
-увеличь верхнее изображения в несколько раз
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=darkildo&theme=dark&hide_border=true" height="170" />
 </p>
