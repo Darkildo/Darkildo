@@ -1,6 +1,6 @@
 <!-- ───────────────────────── Header ───────────────────────── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" width="360" alt="Darkildo logo" />
+  <img src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" width="420" alt="Darkildo logo" />
 </p>
 
 <h1 align="center">Darkildo</h1>
@@ -14,20 +14,13 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
+  <a href="https://discord.com/users/d.ildorequiem">
+    <img src="https://img.shields.io/badge/Discord-d.ildorequiem-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: d.ildorequiem" />
+  </a>
+  &nbsp;
   <a href="https://github.com/Darkildo?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <!--
-  Раскомментируй, когда будут ссылки:
-  &nbsp;
-  <a href="https://discord.com/users/XXXX">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  -->
 </p>
 
 <br/>
@@ -41,6 +34,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -51,6 +45,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
+  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON" />
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
@@ -75,18 +71,24 @@
 
 | Project | Stack | Description |
 |:--|:--|:--|
-| [**Kitcher**](https://github.com/Darkildo/kitcher) | Flutter | Main project repository |
+| [**selfsync**](https://github.com/Darkildo/selfsync) ⭐ | Rust · TypeScript · WASM | Self-hosted sync for Obsidian vaults — automatic merge of non-overlapping edits, conflict copies, server-side trash & history, optional E2E encryption. Rust server + Obsidian plugin + CLI client |
+| [**ton-vanity-search**](https://github.com/Darkildo/ton-vanity-search) | Rust | Parallel brute-force search for TON wallet addresses matching a chosen prefix |
+| [**random-draw-ton**](https://github.com/Darkildo/random-draw-ton) | Tolk · TypeScript | TON smart contract for random draws: entries, winner selection, prize payout minus fee |
+| [**Kitcher**](https://github.com/Darkildo/kitcher) | Flutter | Mobile app (screenshots in repo) |
+| [**AntFarm**](https://github.com/Darkildo/AntFarm) | Unreal Engine 4 · C++ | Ant farm simulator |
 | [**Logging Service**](https://github.com/Darkildo/userLoggingProject) | Go | Sync user-logging service |
-| [**TestUnitTask**](https://github.com/Darkildo/TestUnitTask) | Flutter | Infinite list generation test task |
 
 <details>
-<summary><b>Legacy / archived</b></summary>
+<summary><b>Test tasks & legacy</b></summary>
 <br/>
 
-| Project | Description |
-|:--|:--|
-| [**Uchet**](https://github.com/Darkildo/uchet) | Legacy test project |
-| [**BonusSystemApp**](https://github.com/Darkildo/BonusSytemApp) | Legacy test project |
+| Project | Stack | Description |
+|:--|:--|:--|
+| [**flutter_gif**](https://github.com/Darkildo/flutter_gif) | Flutter · C++ | Fork — GIF widget with progress & speed control |
+| [**TestUnitTask**](https://github.com/Darkildo/TestUnitTask) | Flutter | Test task: infinite list generation |
+| [**backend-for-QuestinonApp**](https://github.com/Darkildo/backend-for-QuestinonApp) | Node.js · Express | Test backend for a quiz/testing system |
+| [**Uchet**](https://github.com/Darkildo/uchet) | — | Legacy test project |
+| [**BonusSystemApp**](https://github.com/Darkildo/BonusSytemApp) | — | Legacy test project |
 
 </details>
 
@@ -98,17 +100,17 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Darkildo&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Darkildo&show_icons=true&hide_border=true&theme=default&bg_color=00000000" height="165" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Darkildo&show_icons=true&hide_border=true&theme=default&bg_color=00000000" height="180" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkildo&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkildo&layout=compact&hide_border=true&theme=default&bg_color=00000000" height="165" alt="Top languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkildo&layout=compact&hide_border=true&theme=default&bg_color=00000000" height="180" alt="Top languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Darkildo&hide_border=true&theme=github-dark-blue&background=00000000" />
-    <img src="https://streak-stats.demolab.com?user=Darkildo&hide_border=true&theme=default&background=00000000" height="165" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=Darkildo&hide_border=true&theme=default&background=00000000" height="180" alt="GitHub streak" />
   </picture>
 </p>
