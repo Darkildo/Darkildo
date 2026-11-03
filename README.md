@@ -1,116 +1,117 @@
 <!-- ───────────────────────── Header ───────────────────────── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" width="420" alt="Darkildo logo" />
+  <img src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" width="360" alt="Darkildo logo" />
 </p>
 
 <h1 align="center">Darkildo</h1>
 
 <p align="center">
-  Backend &amp; mobile developer&nbsp;·&nbsp;<b>Go</b>&nbsp;·&nbsp;<b>Rust</b>&nbsp;·&nbsp;<b>Flutter / Dart</b>
+  Backend &amp; mobile developer · <b>Rust</b> · <b>Flutter / Dart</b> · <b>Go</b><br/>
+  I build private, self-hosted software: an end-to-end encrypted messenger, sync and learning tools for Obsidian.
 </p>
 
 <p align="center">
-  <a href="https://t.me/VladimIRKish">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/d.ildorequiem">
-    <img src="https://img.shields.io/badge/Discord-d.ildorequiem-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: d.ildorequiem" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Darkildo?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-  </a>
+  <a href="https://t.me/VladimIRKish"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.com/users/d.ildorequiem"><img src="https://img.shields.io/badge/Discord-d.ildorequiem-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: d.ildorequiem" /></a>
 </p>
 
-<br/>
+<p align="center"><b>English</b> · <a href="README.ru.md">Русский</a></p>
 
-<!-- ───────────────────────── Stack ───────────────────────── -->
-## 🧩 Tech Stack
+<!-- ───────────────────────── Featured ───────────────────────── -->
+## 🚀 Featured projects
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+### 🔐 [TrustMe](https://github.com/Darkildo/TrustMe)
 
-**Frameworks & Platforms**
+Private messenger with an open server and a trust network. No phone number, up to 8 devices per account, your own nodes. Messages, files, calls and location are end-to-end encrypted.
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly" />
-  <img src="https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=ton&logoColor=white" alt="TON" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
-  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
+[![App](https://img.shields.io/github/v/release/Darkildo/TrustMe-releases?label=app&sort=semver&style=flat-square)](https://github.com/Darkildo/TrustMe-releases/releases/latest)
+[![Node](https://img.shields.io/github/v/tag/Darkildo/trustme_backend?label=node&sort=semver&style=flat-square)](https://github.com/Darkildo/trustme_backend)
 
-**Tools**
+`Flutter` `Rust` `Noise` `NATS`
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+[Download](https://github.com/Darkildo/TrustMe-releases/releases/latest) · [Server node](https://github.com/Darkildo/trustme_backend) · [Node panel](https://github.com/Darkildo/trustme_admin)
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
-<!-- ───────────────────────── Projects ───────────────────────── -->
-## 🚀 Projects
+### 🔄 [Selfsync](https://github.com/Darkildo/selfsync)
 
-| Project | Stack | Description |
+Self-hosted sync for Obsidian vaults: no lost edits, conflict copies, server-side trash and history, optional end-to-end encryption. Rust server, Obsidian plugin and CLI.
+
+[![Release](https://img.shields.io/github/v/release/Darkildo/selfsync?style=flat-square)](https://github.com/Darkildo/selfsync/releases/latest)
+[![Stars](https://img.shields.io/github/stars/Darkildo/selfsync?style=flat-square)](https://github.com/Darkildo/selfsync/stargazers)
+[![License](https://img.shields.io/github/license/Darkildo/selfsync?style=flat-square)](https://github.com/Darkildo/selfsync/blob/main/LICENSE)
+
+`Rust` `TypeScript` `WASM`
+
+Hosted version: [selfsync-cloud](https://github.com/Darkildo/selfsync-cloud)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧭 [Tropa](https://github.com/Darkildo/tropa)
+
+Obsidian plugin: builds a graph of concepts and materials from your notes and lays out a personal learning route to any goal.
+
+[![Release](https://img.shields.io/github/v/release/Darkildo/tropa?style=flat-square)](https://github.com/Darkildo/tropa/releases/latest)
+[![License](https://img.shields.io/github/license/Darkildo/tropa?style=flat-square)](https://github.com/Darkildo/tropa/blob/main/LICENSE)
+
+`TypeScript` `Rust → WASM`
+
+</td>
+<td width="50%" valign="top">
+
+### 💎 [fragment-api-go](https://github.com/Darkildo/fragment-api-go)
+
+Go client for the Fragment.com API: Telegram Stars, Premium subscriptions and TON transfers.
+
+[![License](https://img.shields.io/github/license/Darkildo/fragment-api-go?style=flat-square)](https://github.com/Darkildo/fragment-api-go/blob/master/LICENSE)
+
+`Go` `TON`
+
+</td>
+</tr>
+</table>
+
+<!-- ───────────────────────── More ───────────────────────── -->
+## 🧪 More on TON & Rust
+
+| Project | Stack | What it does |
 |:--|:--|:--|
-| [**selfsync**](https://github.com/Darkildo/selfsync) ⭐ | Rust · TypeScript · WASM | Self-hosted sync for Obsidian vaults — automatic merge of non-overlapping edits, conflict copies, server-side trash & history, optional E2E encryption. Rust server + Obsidian plugin + CLI client |
-| [**ton-vanity-search**](https://github.com/Darkildo/ton-vanity-search) | Rust | Parallel brute-force search for TON wallet addresses matching a chosen prefix |
+| [**ton-vanity-search**](https://github.com/Darkildo/ton-vanity-search) | Rust | Parallel brute-force search for TON wallet addresses with a chosen prefix |
 | [**random-draw-ton**](https://github.com/Darkildo/random-draw-ton) | Tolk · TypeScript | TON smart contract for random draws: entries, winner selection, prize payout minus fee |
-| [**Kitcher**](https://github.com/Darkildo/kitcher) | Flutter | Mobile app (screenshots in repo) |
-| [**AntFarm**](https://github.com/Darkildo/AntFarm) | Unreal Engine 4 · C++ | Ant farm simulator |
-| [**Logging Service**](https://github.com/Darkildo/userLoggingProject) | Go | Sync user-logging service |
+| [**sha_256_pretty_search**](https://github.com/Darkildo/sha_256_pretty_search) | Rust | Generates SHA-256 hashes in parallel on every CPU thread |
 
 <details>
-<summary><b>Test tasks & legacy</b></summary>
+<summary><b>Early projects & test tasks</b></summary>
 <br/>
 
 | Project | Stack | Description |
 |:--|:--|:--|
-| [**flutter_gif**](https://github.com/Darkildo/flutter_gif) | Flutter · C++ | Fork — GIF widget with progress & speed control |
+| [**AntFarm**](https://github.com/Darkildo/AntFarm) | Unreal Engine 4 · C++ | Ant farm simulator |
+| [**SimpleUEInventory**](https://github.com/Darkildo/SimpleUEInventory) | Unreal Engine 4 · C++ | Inventory with weight control and item parameters |
+| [**Kitcher**](https://github.com/Darkildo/kitcher) | Flutter | Mobile app (screenshots in repo) |
+| [**JobRunner**](https://github.com/Darkildo/JobRunner) | Go | Test task: HTTP API for long-running I/O-bound jobs |
+| [**userLoggingProject**](https://github.com/Darkildo/userLoggingProject) | Go | Sync user-logging service |
 | [**TestUnitTask**](https://github.com/Darkildo/TestUnitTask) | Flutter | Test task: infinite list generation |
-| [**backend-for-QuestinonApp**](https://github.com/Darkildo/backend-for-QuestinonApp) | Node.js · Express | Test backend for a quiz/testing system |
-| [**Uchet**](https://github.com/Darkildo/uchet) | — | Legacy test project |
-| [**BonusSystemApp**](https://github.com/Darkildo/BonusSytemApp) | — | Legacy test project |
+| [**backend-for-QuestinonApp**](https://github.com/Darkildo/backend-for-QuestinonApp) | Node.js · Express | Test backend for a quiz system |
 
 </details>
 
-<br/>
+<!-- ───────────────────────── Stack ───────────────────────── -->
+## 🧩 Tech stack
 
-<!-- ───────────────────────── Stats ───────────────────────── -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Darkildo&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Darkildo&show_icons=true&hide_border=true&theme=default&bg_color=00000000" height="180" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkildo&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkildo&layout=compact&hide_border=true&theme=default&bg_color=00000000" height="180" alt="Top languages" />
-  </picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,go,flutter,dart,ts,py,cpp&perline=12" alt="Rust, Go, Flutter, Dart, TypeScript, Python, C++" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=wasm,tauri,react,postgres,supabase,docker,linux,git,obsidian,unreal&perline=12" alt="WebAssembly, Tauri, React, PostgreSQL, Supabase, Docker, Linux, Git, Obsidian, Unreal Engine" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Darkildo&hide_border=true&theme=github-dark-blue&background=00000000" />
-    <img src="https://streak-stats.demolab.com?user=Darkildo&hide_border=true&theme=default&background=00000000" height="180" alt="GitHub streak" />
-  </picture>
-</p>
+Also: TON smart contracts (Tolk), gRPC, NATS JetStream, Noise protocol, Proxmox home lab.
