@@ -1,8 +1,4 @@
 <!-- ───────────────────────── Header ───────────────────────── -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Darkildo/Darkildo/main/assets/logo.jpg" width="360" alt="Darkildo logo" />
-</p>
-
 <h1 align="center">Darkildo</h1>
 
 <p align="center">
